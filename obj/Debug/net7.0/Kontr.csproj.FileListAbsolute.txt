@@ -1,0 +1,15 @@
+C:\Users\suver\OneDrive\Рабочий стол\програмирование\Kontr\bin\Debug\net7.0\Kontr.exe
+C:\Users\suver\OneDrive\Рабочий стол\програмирование\Kontr\bin\Debug\net7.0\Kontr.deps.json
+C:\Users\suver\OneDrive\Рабочий стол\програмирование\Kontr\bin\Debug\net7.0\Kontr.runtimeconfig.json
+C:\Users\suver\OneDrive\Рабочий стол\програмирование\Kontr\bin\Debug\net7.0\Kontr.dll
+C:\Users\suver\OneDrive\Рабочий стол\програмирование\Kontr\bin\Debug\net7.0\Kontr.pdb
+C:\Users\suver\OneDrive\Рабочий стол\програмирование\Kontr\obj\Debug\net7.0\Kontr.csproj.AssemblyReference.cache
+C:\Users\suver\OneDrive\Рабочий стол\програмирование\Kontr\obj\Debug\net7.0\Kontr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suver\OneDrive\Рабочий стол\програмирование\Kontr\obj\Debug\net7.0\Kontr.AssemblyInfoInputs.cache
+C:\Users\suver\OneDrive\Рабочий стол\програмирование\Kontr\obj\Debug\net7.0\Kontr.AssemblyInfo.cs
+C:\Users\suver\OneDrive\Рабочий стол\програмирование\Kontr\obj\Debug\net7.0\Kontr.csproj.CoreCompileInputs.cache
+C:\Users\suver\OneDrive\Рабочий стол\програмирование\Kontr\obj\Debug\net7.0\Kontr.dll
+C:\Users\suver\OneDrive\Рабочий стол\програмирование\Kontr\obj\Debug\net7.0\refint\Kontr.dll
+C:\Users\suver\OneDrive\Рабочий стол\програмирование\Kontr\obj\Debug\net7.0\Kontr.pdb
+C:\Users\suver\OneDrive\Рабочий стол\програмирование\Kontr\obj\Debug\net7.0\Kontr.genruntimeconfig.cache
+C:\Users\suver\OneDrive\Рабочий стол\програмирование\Kontr\obj\Debug\net7.0\ref\Kontr.dll
